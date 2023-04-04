@@ -1,4 +1,5 @@
-### Hi there 👋, Samet Karas
+### Hi there 👋,
+### I'm Samet Karas
 #### Computer Engineering Student
 ![Computer Engineering Student](https://pbs.twimg.com/profile_banners/1249420786638544896/1680629524/1500x500)
 
