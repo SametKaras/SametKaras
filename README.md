@@ -1,6 +1,6 @@
 ### Hi there 👋, Samet Karas
 #### Computer Engineering Student
-![Computer Engineering Student](https://pbs.twimg.com/profile_banners/1249420786638544896/1680592029/1080x360)
+![Computer Engineering Student]([https://pbs.twimg.com/profile_banners/1249420786638544896/1680592029/1080x360](https://i.ytimg.com/vi/y552oUN3C8w/sddefault.jpg))
 
 I'm Samet from Turkiye and I do contents on development. I really enjoy learning languages.
 
