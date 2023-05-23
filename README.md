@@ -1,5 +1,5 @@
 ### Hi there 👋,
-### I'm Samet Karas
+### I'm Samet Karas                                                                                                                                           ![Profile views](https://gpvc.arturio.dev/SametKaras)  
 #### Computer Engineering Student
 ![Computer Engineering Student](https://pbs.twimg.com/profile_banners/1249420786638544896/1680629524/1500x500)
 
@@ -28,4 +28,4 @@ I'm Samet from Turkiye and I do contents on development. I really enjoy learning
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=SametKaras)  
 
-![Profile views](https://gpvc.arturio.dev/SametKaras)  
+
