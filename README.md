@@ -2,7 +2,7 @@
 ### I'm Samet Karas                                                                                                                                            
 #### Computer Engineering Student
 
-![Profile views](https://gpvc.arturio.dev/SametKaras) 
+![Profile views]([https://komarev.com/ghpvc/?username=SametKaras&label=Profile%20views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=SametKaras&label=Profile%20views&color=0e75b6&style=flat))
 
 
 ![Computer Engineering Student](https://pbs.twimg.com/profile_banners/1249420786638544896/1680629524/1500x500)
