@@ -2,7 +2,7 @@
 ### I'm Samet Karas                                                                                                                                            
 #### Computer Engineering Student
 
-![Profile views](![](https://komarev.com/ghpvc/?username=SametKaras&color=brightgreen))
+![Profile views]()
 
 
 ![Computer Engineering Student](https://pbs.twimg.com/profile_banners/1249420786638544896/1680629524/1500x500)
