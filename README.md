@@ -17,8 +17,14 @@ I'm Samet from Turkiye and I do contents on development. I really enjoy learning
 - 💬 Ask me about anything you want. 
 - 📫 How to reach me: sametkaras.tr@gmail.com 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='50'>](https://github.com/SametKaras)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='50'>](https://dev.to/sametkaras)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50'>](https://www.linkedin.com/in/samet-karaş-585999251//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='50'>](https://www.instagram.com/samet_karas/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='50'>](https://stackoverflow.com/users/21562750/samet-karaş)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/vaveylafps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaveylafps" height="30" width="40" /></a>
+<a href="https:/samet-karaş-585999251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samet-karaş-585999251/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21562750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20627158" height="30" width="40" /></a>
+<a href="https://instagram.com/samet_karas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samet_karas/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sametkaras_tr?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sametkaras_tr?hr_r=1" height="30" width="40" /></a>
+</p>
 
 
 
