@@ -5,7 +5,7 @@
 
 
 
-![Computer Engineering Student][(https://pbs.twimg.com/profile_banners/1249420786638544896/1680629524/1500x500)](https://pbs.twimg.com/media/FyckUp9WYBQ-Oo6?format=jpg&name=4096x4096)](https://pbs.twimg.com/media/FyckUp9WYBQ-Oo6?format=jpg&name=4096x4096)
+![Computer Engineering Student](https://pbs.twimg.com/profile_banners/1249420786638544896/1680629524/1500x500)](https://pbs.twimg.com/media/FyckUp9WYBQ-Oo6?format=jpg&name=4096x4096)](https://pbs.twimg.com/media/FyckUp9WYBQ-Oo6?format=jpg&name=4096x4096)
 
 I'm Samet from Turkiye and I do contents on development. I really enjoy learning languages.
 
