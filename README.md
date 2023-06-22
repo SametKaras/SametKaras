@@ -5,7 +5,7 @@
 
 
 
-![Computer Engineering Student](https://pbs.twimg.com/profile_banners/1249420786638544896/1680629524/1500x500)
+![Computer Engineering Student](https://github.com/SametKaras/SametKaras/blob/9188881d77ed5f31854d81378ff74fe4f3c1d309/romantik.png)
 
 I'm Samet from Turkiye and I do contents on development. I really enjoy learning languages.
 
