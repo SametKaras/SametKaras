@@ -34,8 +34,6 @@ I'm Samet from Turkiye and I do contents on development. I really enjoy learning
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SametKaras&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://camo.githubusercontent.com/e5d4918e67d268b615d8a21b52b631ea2b7b268df9b84a075551c731e25d7961/68747470733a2f2f6d6574726963732e6c65636f712e696f2f53616d65744b61726173)
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=SametKaras)  
 
 
