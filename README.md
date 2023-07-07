@@ -26,14 +26,3 @@ I'm Samet from Turkiye and I do contents on development. I really enjoy learning
 <a href="https://www.hackerrank.com/sametkaras_tr?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sametkaras_tr?hr_r=1" height="30" width="40" /></a>
 </p>
 
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SametKaras)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SametKaras)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SametKaras&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=SametKaras)  
-
-
