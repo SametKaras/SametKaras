@@ -2,7 +2,10 @@
 ### I'm Samet Karas                                                                                                                                            
 #### Computer Engineering Student
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SametKaras&label=Profile%20views&color=0e75b6&style=flat" alt="SametKaras" /> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=SametKaras&icon=1&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 ![Computer Engineering Student](https://github.com/SametKaras/SametKaras/blob/9188881d77ed5f31854d81378ff74fe4f3c1d309/romantik.png)
@@ -32,8 +35,5 @@ I'm Samet from Turkiye and I do contents on development. I really enjoy learning
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SametKaras&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=SametKaras&icon=1&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
