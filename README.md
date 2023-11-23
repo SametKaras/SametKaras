@@ -13,7 +13,7 @@
 I'm Samet from Turkiye and I do contents on development. I really enjoy learning languages.
 
 # 💫 About Me:
-🔭 I’m currently working on for my own.<br>🌱 I’m currently learning Unity<br>💬 Ask me about anything you want.<br>📫 How to reach me: sametkaras.tr@gmail.com
+🔭 I’m currently working on for my own.<br>🌱 I’m currently learning ...<br>💬 Ask me about anything you want.<br>📫 How to reach me: sametkaras.tr@gmail.com
 
 
 ## 🌐 Socials:
