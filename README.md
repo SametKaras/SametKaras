@@ -27,10 +27,6 @@
 
 ###
 
-<img align="right" height="150" src="https://www.instagram.com/reel/CrQ_LS-AC6P/?utm_source=ig_web_copy_link"  />
-
-###
-
 <div align="left">
   <a href="https://www.instagram.com/samet_karas/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -52,6 +48,10 @@
 ###
 
 <img src="https://raw.githubusercontent.com/SametKaras/SametKaras/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img align="left" height="300" src="https://i.scdn.co/image/ab67616d0000b2733211aa4479dea52d7dce307c"  />
 
 ###
 
