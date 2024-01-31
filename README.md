@@ -10,10 +10,10 @@
 
 ![Computer Engineering Student](https://github.com/SametKaras/SametKaras/blob/9188881d77ed5f31854d81378ff74fe4f3c1d309/romantik.png)
 
-I'm Samet from Turkiye and I do contents on development. I really enjoy learning languages.
+I'm Samet from Turkiye and I do content on development. I enjoy learning languages.
 
 # 💫 About Me:
-🔭 I’m currently working on for my own.<br>🌱 I’m currently learning ...<br>💬 Ask me about anything you want.<br>📫 How to reach me: sametkaras.tr@gmail.com
+🔭 I’m currently working on for my own.<br>🌱 I’m currently learning PyTorch for Deep Learning<br>💬 Ask me about anything you want.<br>📫 How to reach me: sametkaras.tr@gmail.com
 
 
 ## 🌐 Socials:
