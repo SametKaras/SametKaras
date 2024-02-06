@@ -55,14 +55,3 @@
 
 ###
 
-<img align="left" height="300" src="https://i.scdn.co/image/ab67616d0000b2733211aa4479dea52d7dce307c"  />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/5xpspea5wy8tfo6ctj48azed3">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=5xpspea5wy8tfo6ctj48azed3&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
