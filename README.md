@@ -2,6 +2,10 @@
 
 ###
 
+<h1 align="center"> ✶ new era's new boy </h1>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SametKaras&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="140" alt="stats graph"  />
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SametKaras&theme=transparent&border_radius=5" height="140" alt="GitHub Streak" /></a>
@@ -51,6 +55,14 @@
 
 ###
 
-<h1 align="center"> ✶ new era's new boy </h1>
+<img align="left" height="300" src="https://i.scdn.co/image/ab67616d0000b2733211aa4479dea52d7dce307c"  />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/5xpspea5wy8tfo6ctj48azed3">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=5xpspea5wy8tfo6ctj48azed3&count=3&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
