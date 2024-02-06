@@ -1,8 +1,8 @@
-<h2 align="center">Hi 👋! My name is Samet and I'm a computer engineering student, from Turkiye.</h2>
+<h1 align="center">Hi 👋! My name is Samet and I'm a computer engineering student, from Turkiye.</h1>
 
 ###
 
-<h1 align="center"> ✶ new era's new boy </h1>
+<h2 align="center"> ✶ new era's new boy </h2>
 
 ###
 
