@@ -5,6 +5,13 @@
 <h2 align="center"> ✶ new era's new boy </h2> 
 
 ###
+
+<div align="center">
+  <img height = "200" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJ2OGl1Y2dycDVrbDc0dGV6Ymg2NXJ5eWVtaTJkMWc2bzZkMmpsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O7zs0S0ebHbZOWyBqD/giphy-downsized-large.gif"  />
+</div>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SametKaras&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="140" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=SametKaras&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="140" alt="streak graph"  />
