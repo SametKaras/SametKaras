@@ -2,10 +2,6 @@
 
 ###
 
-<h2 align="center"> ✶ new era's new boy </h2> 
-
-###
-
 <div align="center">
   <img height = "200" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJ2OGl1Y2dycDVrbDc0dGV6Ymg2NXJ5eWVtaTJkMWc2bzZkMmpsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O7zs0S0ebHbZOWyBqD/giphy-downsized-large.gif"  />
 </div>
