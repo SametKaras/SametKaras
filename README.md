@@ -1,51 +1,50 @@
-<h2 align="center">Hi, I'm Samet. Welcome to my galaxy! 🪐 Where creativity meets innovation.</h2>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJ2OGl1Y2dycDVrbDc0dGV6Ymg2NXJ5eWVtaTJkMWc2bzZkMmpsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O7zs0S0ebHbZOWyBqD/giphy-downsized-large.gif"  />
-</div>
-
-###
+<h1 align="center">Hi, I'm Samet 👋</h1>
+<h3 align="center">Software Engineer · Real-time Graphics · Computer Vision</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SametKaras&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SametKaras&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=true" height="140" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SametKaras&theme=gotham&area=true&hide_border=true&hide_title=true&radius=0" height="150" alt="activity-graph graph"  />
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJ2OGl1Y2dycDVrbDc0dGV6Ymg2NXJ5eWVtaTJkMWc2bzZkMmpsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O7zs0S0ebHbZOWyBqD/giphy-downsized-large.gif" alt="space animation" />
 </div>
 
-###
+<br>
+
+## About me
+
+- 🔭 **Software Engineer @ CDM Vision**: building industrial AR and AI-based visual inspection software (Unity, C#, Python, C++)
+- 🎮 Writing a **Vulkan renderer and scene editor from scratch** in modern C++: PBR + IBL, cascaded and punctual shadows, SSAO, TAA, clustered lighting, GPU-driven culling, reflection probes
+- 🧠 **Computer vision**: object detection and multi-object tracking (YOLO, ByteTrack), monocular depth estimation, video-to-3D reconstruction
+- ⚡ Interested in GPU programming, rendering pipelines and making things fast
+- 📫 Reach me at **sametkaras.tr@gmail.com**
+
+## Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,py,rust,unity,pytorch,opencv,cmake,git,visualstudio&perline=10" alt="C++, C#, Python, Rust, Unity, PyTorch, OpenCV, CMake, Git, Visual Studio" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white" alt="Vulkan" />
+  <img src="https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="GLSL" />
+  <img src="https://img.shields.io/badge/ImGui-1F1F1F?style=for-the-badge" alt="Dear ImGui" />
+  <img src="https://img.shields.io/badge/vcpkg-0078D4?style=for-the-badge" alt="vcpkg" />
+</p>
+
+## GitHub stats
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SametKaras&hide_title=true&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SametKaras&layout=compact&langs_count=6&theme=gotham&hide_border=true" height="150" alt="Top languages" />
 </div>
-
-###
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/sametkaras/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/samet_karas/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="35" alt="instagram logo" />
-  </a>
-  <a href="mailto:sametkaras.tr@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SametKaras&theme=gotham&area=true&hide_border=true&hide_title=true&radius=0" alt="Contribution activity graph" />
 </div>
 
-###
+## Connect
 
-<img src="https://raw.githubusercontent.com/SametKaras/SametKaras/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/sametkaras/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sametkaras.tr@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.instagram.com/samet_karas/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
-###
+<br>
+
+<img src="https://raw.githubusercontent.com/SametKaras/SametKaras/output/snake.svg" alt="Snake eating my contribution graph" />
